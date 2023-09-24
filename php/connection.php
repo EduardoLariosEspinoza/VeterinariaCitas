@@ -1,10 +1,10 @@
 <?php
 
 
-$servername = "localhost";
-$database = "elarios12";
-$username = "elarios12";
-$password = "64NArOW6&&yp";
+$servername = "";
+$database = "";
+$username = "";
+$password = "";
 
 // Establecer una nueva conexion con una abse de datos mySQL
 $conn = mysqli_connect($servername, $username, $password, $database);
